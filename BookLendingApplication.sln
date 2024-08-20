@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookLendingApplication", "BookLendingApplication\BookLendingApplication.csproj", "{71075F91-9CA3-4793-920A-3385290718A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumsIntegration", "AlbumsIntegration\AlbumsIntegration.csproj", "{FC5E4D69-852E-4823-BE99-24A022225116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71075F91-9CA3-4793-920A-3385290718A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71075F91-9CA3-4793-920A-3385290718A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71075F91-9CA3-4793-920A-3385290718A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71075F91-9CA3-4793-920A-3385290718A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5E4D69-852E-4823-BE99-24A022225116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5E4D69-852E-4823-BE99-24A022225116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5E4D69-852E-4823-BE99-24A022225116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5E4D69-852E-4823-BE99-24A022225116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD2D6E0-382B-43BE-8E5D-6E85DF828DC7}
+	EndGlobalSection
+EndGlobal
